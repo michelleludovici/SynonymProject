@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jsoup-1.8.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jsoup-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maltparser-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/MaltParser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stagger.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

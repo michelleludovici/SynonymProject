@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/posAdjAdv.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuffledWordList.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shuffledWordList_filtered.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/se/milu/maltparser/NaiveBayes.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/se/milu/maltparser/NaiveBayesTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/se/milu/maltparser/SentenceClassifier.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testmeningar.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testmeningar_filtrerad.txt" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,353 @@
+ramponera:0:3
+gissa:2:1
+vara anställd:7:0
+krossa:0:3
+beveka:2:1
+harma:0:3
+krampa:0:4
+gå med på:3:0
+åtfölja:3:0
+tracka:0:3
+tillgripa:0:4
+alarmera:2:2
+få fatt i:4:0
+utvinna:3:0
+ombesörja:5:0
+yrka:2:2
+iaktta:2:1
+underbygga:2:2
+misstycka:0:4
+hänföra:3:1
+yttra missnöje med:0:3
+trotsa:1:2
+falla samman:1:3
+sauvera:1:3
+opponera sig:1:3
+äska:1:2
+åka med:3:0
+handlägga:3:1
+sköta:4:0
+beivra:1:3
+missbelåten:0:3
+förhala:0:4
+passa:3:0
+sätta:3:0
+piska:0:4
+sluta:0:4
+åtnjuta:2:2
+bygga på:5:1
+tillmötesgå:3:0
+satsa:3:0
+eftertrakta:2:1
+godta:3:0
+klaffa:3:0
+strunta i:0:3
+akta:0:3
+ha hand om:3:0
+ro:3:0
+göra i ordning:3:0
+framgå:3:0
+bete sig:3:0
+stänga:0:3
+protestera:0:3
+blessera:2:1
+berättiga:3:0
+hänga med i:3:0
+truga:1:2
+uppmana:2:1
+behandla överlägset:0:3
+såra:0:3
+anhålla om:1:2
+stanna:3:0
+känna till:3:0
+rekrytera:3:0
+omöjliggöra:0:3
+kalkylera:3:0
+tillbe:2:1
+gå till angrepp mot:1:2
+förråda:0:3
+arbeta:3:0
+fälla omdöme om:1:2
+överklaga:0:3
+arbete:3:0
+nedsabla:0:3
+presumera:2:1
+värva:3:0
+gitta:1:2
+arvodera:1:2
+betala:1:2
+utspärra:0:3
+fasa:0:3
+uträkna:1:2
+cementera:0:3
+uppträda:3:0
+tävla:3:0
+utöka:3:0
+kurra:2:1
+välja:2:1
+illvilja:0:3
+värdera:2:1
+spisa:2:1
+behålla:3:0
+topprida:1:2
+skatta:3:0
+överträffa:3:0
+gapa:2:0
+ogagn:0:2
+rusta:1:1
+pröva:2:0
+rubba:0:2
+ge sig tillkänna:3:1
+lyckas:2:0
+obstruera:0:2
+hjälpa till:2:0
+rasa:1:1
+instifta:1:1
+föra ut:3:1
+vilja ha:2:0
+stjäla:0:2
+erinra:1:1
+avklara:2:0
+nyttja:2:0
+vinnlägga sig om:2:0
+befria från:2:0
+ge en kram:2:0
+vara värd:2:0
+avhålla:0:2
+få godkänt:2:0
+ömma:2:0
+göra intrång:0:2
+ta itu med:2:0
+börja:2:0
+chikanera:0:2
+lida av:0:2
+förställa sig:0:2
+stödja med ris:3:1
+önska för egen del:2:0
+avskilja:2:0
+underkuva:0:2
+hugga:2:0
+lägga hinder i vägen för:0:2
+handha:2:0
+ansöka om:2:0
+fästa vikt vid:2:0
+efterträda:2:0
+enervera:1:1
+ställa sig bakom:3:1
+glädjas:4:0
+gripa:1:1
+vara mycket förtjust i:2:0
+vara uppmärksam:2:0
+supporta:2:0
+syna:1:1
+vara bitter:0:2
+lanka:0:2
+låtsas:1:1
+locka:1:1
+dröja kvar:3:1
+bedöma värdet av:3:1
+nedtrycka:0:2
+vara aktsam om:2:0
+upprätthålla:1:1
+omfamna:2:0
+fantisera:2:0
+ha tillåtelse:2:0
+göra en beräkning:2:0
+vidröra:1:1
+tipsa:2:0
+fröjdas:2:0
+kontrollera:1:1
+klatscha:1:1
+daska:0:2
+trösta:2:0
+fägna:2:0
+uppta:2:0
+styrka:2:0
+mysa:2:0
+svetsa:2:0
+hålla uppe:2:0
+slå armarna om:2:0
+stadga:2:0
+ge stryk:0:2
+säkerställa:2:0
+grundlägga:2:0
+beräkna:2:0
+beundra:2:0
+bita:1:1
+göra sig till:1:1
+övervältra:0:2
+tillfredsställa:2:0
+klå upp:2:2
+goutera:2:0
+stimulera:2:0
+mäkta:2:0
+tillryggalägga:2:0
+uppklara:2:0
+misströsta:1:1
+fresta:2:0
+företa sig:2:0
+övervinna:2:0
+påskynda:2:0
+skifta:2:0
+tycka om:2:0
+risa:0:2
+häda:0:2
+analysera:1:1
+dra av:1:1
+hålla reda på:2:0
+inneha:2:0
+fullständigt genomföra:2:0
+evaluera:2:0
+hunsa:0:2
+rumla:1:1
+bestyra:2:0
+vinna gehör:4:0
+störta:0:2
+tjäna:2:0
+mangla:0:2
+godkänna:2:0
+inte räcka till:0:2
+förändras till sin fördel:2:0
+vikariera:2:0
+gyttja:1:1
+försöka undvika:1:1
+förhindra:2:0
+ge skulden för:0:2
+inte lämna i fred:1:1
+vara till nytta:2:0
+ansa:1:1
+koka ihop:4:0
+slita:1:1
+stöta:1:1
+avgå:0:2
+några:2:0
+knycka:0:2
+sky:0:2
+motarbeta:0:4
+hantera:2:0
+vara förtvivlad:1:1
+dyrka:2:0
+förutse:2:0
+förnärma:1:1
+lamslå:0:2
+föranlåta:0:2
+entusiasmera:2:0
+foga sig i:1:1
+klarlägga:1:1
+framkomma:2:0
+tycka illa om:1:1
+omvända:0:2
+snygga upp:2:0
+hålla vakt:2:0
+elda:2:0
+införliva:1:1
+ansluta sig till:2:0
+göra förargad:1:1
+lyckliggöra:2:0
+göra till sin egen:1:1
+klara:2:0
+lova:2:0
+utöva påtryckning på:1:1
+raspa:0:2
+pricka:1:1
+prisa:2:0
+gnaga:1:1
+buckla:0:2
+stoja:2:0
+rädda sig:2:0
+bereda sig på:2:0
+sno:0:2
+visa aktning:2:0
+hålla sig kvar:1:1
+attackera:1:1
+börja slåss:0:2
+röra sig:1:1
+erodera:0:2
+visa uppskattning:2:0
+hosta upp:0:2
+förfölja:0:2
+prestera:2:0
+numerär:2:0
+poängtera:2:0
+leverera:2:0
+gnida:1:1
+dimslöja:2:0
+tjära:1:1
+voja:1:1
+inkassera:2:0
+föra talan mot:1:1
+tvinga till underkastelse:1:1
+räkna fram:2:0
+stadfästa:2:0
+dölja sanningen:0:2
+oja sig:1:3
+grupp:1:1
+rå med:2:0
+spetsa:1:1
+dilla:0:2
+famna:2:0
+säga ja till:2:0
+marter:0:2
+behärska sig:2:0
+spela from:0:2
+ta hänsyn till:2:0
+hindra:0:2
+nödga:1:1
+ha betalt:2:0
+fästa sig:2:0
+hejda:2:0
+anfäkta:1:1
+instämma i:2:0
+tåga:2:0
+göra klar:2:0
+plåstra om:1:1
+yla:0:2
+dänga:0:2
+uppstoppa:0:2
+uttrycka sitt missnöje:0:2
+skaffa sig:2:0
+sporra:2:0
+uppjaga:1:1
+möta:2:0
+omfatta:2:0
+åtlyda:0:2
+hårt anstränga:1:1
+komma i besittning av:2:0
+knipa:0:2
+upphöra:1:1
+göra nervös:0:2
+misshandla:0:2
+amortera:1:1
+luras:0:2
+formera sig:2:0
+komma efter:1:1
+vara skicklig:2:0
+reta:1:1
+försaka:1:1
+bevara:2:0
+stöna:0:2
+fördärva:0:2
+vanära:0:2
+täcka:2:0
+simulera:1:1
+ta fast:2:0
+malträtera:0:2
+implementera:2:0
+förebygga:2:0
+illa tilltyga:0:2
+celebrera:2:0
+tygla:1:1
+fejka:0:2
+betvinga:0:2
+svälja:1:1
+utsättas för:1:1
+klargöra:2:0
+ljuga:0:2
+fröjda sig:2:0
+plåga:0:2
+ärekränka:1:1
+tjuta:0:2
+stå bakom:2:0
+vara förtjust i:2:0
+förvärva:2:0
+trycka ned:0:2
