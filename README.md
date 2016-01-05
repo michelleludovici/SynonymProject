@@ -6,6 +6,7 @@ The expanded seed word lists of negative and positive adjectives+adverbs and ver
 For sentence classification, the word classifications are aggregated per sentence. For a detailed description of the process, read the pdf 'Building a Swedish Sentiment model.
 
 **Word classification**
+
 The 'NaiveBayes.java' and 'AveragingMethod.java' contain code for word classifications based on positive and negative word lists of adjectives+adjverbs and verbs.
 The NaiveBayesTest.java runs methods in the above files.
 
