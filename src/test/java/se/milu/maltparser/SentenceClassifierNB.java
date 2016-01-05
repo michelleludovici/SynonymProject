@@ -14,7 +14,7 @@ import java.util.Scanner;
 /**
  * Created by Michelle on 2015-12-12.
  */
-public class SentenceClassifier {
+public class SentenceClassifierNB {
 
     public static final File FILE_POS_ADJ_ADV = new File("posAdjAdv.txt");
     public static final File FILE_NEG_ADJ_ADV = new File("negAdjAdv.txt");
