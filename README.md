@@ -3,7 +3,7 @@ This project contains files for the creation of a Swedish sentiment lexicon (via
 
 The file SynonymAPI.java contains the code to extract synonyms and antonyms (from initial seed words in a txt-file) from the website www.synonymer.se. This way an expanded seed word list is created. 
 The expanded seed word lists of negative and positive adjectives+adverbs and verbs are the sentiment lexicon. It is at the basis for word and sentence classifications with the Naive Bayes and an Averaging Method. 
-For sentence classification, the word classifications are aggregated per sentence. For a detailed description of the process, read the pdf 'Building a Swedish Sentiment model.
+For sentence classification, the word classifications are aggregated per sentence. For a detailed description of the process, read the pdf 'Building a Swedish Sentiment model'.
 
 **Word classification**
 
